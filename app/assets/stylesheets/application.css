@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+#map-container {
+	height: 100%;
+}
+#map-row {
+	height: 100%;
+}
+#map-col {
+	height: 100%;
+}
+
+#map {
+	height: 60%;
+}
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
