@@ -22,3 +22,4 @@ function initMap() {
 		zoom: 15
 	});
 }
+
