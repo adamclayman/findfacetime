@@ -13,13 +13,7 @@
  *= require_tree .
  *= require_self
  */
-#map-container {
-	height: 100%;
-}
-#map-row {
-	height: 100%;
-}
-#map-col {
+#map-container, #map-row, #map-col {
 	height: 100%;
 }
 
